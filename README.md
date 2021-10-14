@@ -1,2 +1,2 @@
 # elective
-sample
+sample project
